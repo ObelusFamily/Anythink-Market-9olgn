@@ -6,6 +6,11 @@ The Anythink Frontend is an SPA written with [React](https://reactjs.org/) and [
 
 Make sure your server is up and running to serve requests.
 
+# Steps
+
+- Open http://localhost:3001/register
+- If you don't have a user - you can create 1
+
 ## Pages overview
 
 - Home page (URL: /#/ )

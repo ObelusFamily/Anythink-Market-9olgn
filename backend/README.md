@@ -2,6 +2,11 @@
 
 The Anythink Market backend is Node web app written with [Express](https://expressjs.com/)
 
+## Getting started
+
+Make sure your server is up and running to serve requests.
+To make sure server is up and running - open http://localhost:3000/api/ping in your browser
+
 ## Dependencies
 
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - For generating JWTs used by authentication
